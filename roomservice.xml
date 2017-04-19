@@ -15,5 +15,16 @@
   <project name="LineageOS/android_kernel_oneplus_msm8974" path="kernel/oneplus/msm8974" remote="github" />
   <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" />
+  <project name="ridon/android_device_xiaomi_kenzo" path="device/xiaomi/kenzo" remote="github" revision="ridon-7.1.2" />
+  <project name="ridon/android_device_xiaomi_msm8956-common" path="device/xiaomi/msm8956-common" remote="github" revision="ridon-7.1.2" />
+  <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" />
+  <project name="LineageOS/android_kernel_xiaomi_msm8956" path="kernel/xiaomi/msm8956" remote="github" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" />
+  <project name="ridon/android_device_xiaomi_ferrari" path="device/xiaomi/ferrari" remote="github" revision="ridon-7.1.2"/>
+  <project name="ridon/android_kernel_xiaomi_ferrari" path="kernel/xiaomi/ferrari" remote="github" revision="ridon-7.1.2"/>
+  <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" />
+  <project name="LineageOS/android_device_cyanogen_msm8916-common" path="device/cyanogen/msm8916-common" remote="github" />
+
 </manifest>
 
