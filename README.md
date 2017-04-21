@@ -1,5 +1,3 @@
-local_manifests
-===============
+# Devices 
 
-Git Clone this file to ~/(where-your-cm-folder-is)/.repo/local_manifests
-Can overwrite the existing one...
+Please add device follow name `device-$(code_name_device).xml`
