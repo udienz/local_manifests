@@ -7,6 +7,6 @@
   <project name="ridon/android_kernel_motorola_msm8226" path="kernel/motorola/msm8226" remote="https" revision="ridon-7.1.2" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="cm-14.1" />
   <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" remote="https" revision="cm-14.1" />
-  <project name="TheMuppets/proprietary_vendor_qcom_binaries" path="vendor/qcom/binaries" remote="https" revision="cm-14.1" />
+  <project name="AOSP-JF-MM/proprietary_vendor_qcom_binaries" path="vendor/qcom/binaries" remote="https" revision="aosp-7.1.1" />
   <project name="ridon/android_device_motorola_msm8226-common" path="device/motorola/msm8226-common" remote="github" revision="ridon-7.1.2" />
 </manifest>
